@@ -1,3 +1,5 @@
+// Fibonacci resolution with a recurvive function 
+
 function recursiveFibo(n) {
     if (n === 0) {
       return 0;
