@@ -1,3 +1,5 @@
+// Fibonacci resolution with an iterative function 
+
 function generateFibonacci (n) {
   const fibSequence = [0,1]
 
